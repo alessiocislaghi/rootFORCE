@@ -39,7 +39,7 @@ in the MathWorks Documentation Center.
 2. Files to Deploy and Package
 
 Files to Package for Standalone 
-================================
+
 -rootFORCE.exe
 -MCRInstaller.exe 
     Note: if end users are unable to download the MATLAB Runtime using the
@@ -47,8 +47,6 @@ Files to Package for Standalone
     component by clicking the "Runtime included in package" link in the
     Deployment Tool.
 -This readme file 
-
-
 
 3. Definitions
 
