@@ -1,4 +1,4 @@
-## rootFORCE v.1.2 (April 2021)
+## rootFORCE v.1.3 (May 2022)
 
 This software is programmed as a Matlab App (@MATLAB R2020a).
 The software rootFORCE estimates the probability distribution of root reinforcement over a forested stand as function of its tree species identity, tree density and average DBH.
@@ -18,7 +18,7 @@ rootFORCE Executable
 
 1. Prerequisites for Deployment 
 
-Verify that version 9.8 (R2020a) of the MATLAB Runtime is installed.   
+Verify that version 9.12 (R2022a) of the MATLAB Runtime is installed.   
 If not, you can run the MATLAB Runtime installer.
 To find its location, enter
   
@@ -27,7 +27,7 @@ To find its location, enter
 at the MATLAB prompt.
 NOTE: You will need administrator rights to run the MATLAB Runtime installer. 
 
-Alternatively, download and install the Windows version of the MATLAB Runtime for R2020a 
+Alternatively, download and install the Windows version of the MATLAB Runtime for R2022a 
 from the following link on the MathWorks website:
 
     https://www.mathworks.com/products/compiler/mcr/index.html
@@ -39,7 +39,7 @@ in the MathWorks Documentation Center.
 2. Files to Deploy and Package
 
 Files to Package for Standalone 
-
+================================
 -rootFORCE.exe
 -MCRInstaller.exe 
     Note: if end users are unable to download the MATLAB Runtime using the
@@ -48,6 +48,8 @@ Files to Package for Standalone
     Deployment Tool.
 -This readme file 
 
+
+
 3. Definitions
 
 For information on deployment terminology, go to
@@ -55,3 +57,4 @@ https://www.mathworks.com/help and select MATLAB Compiler >
 Getting Started > About Application Deployment >
 Deployment Product Terms in the MathWorks Documentation
 Center.
+
