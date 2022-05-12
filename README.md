@@ -1,6 +1,6 @@
 ## rootFORCE v.1.3 (May 2022)
 
-This software is programmed as a Matlab App (@MATLAB R2020a).
+This software is programmed as a Matlab App (@MATLAB R2022a).
 The software rootFORCE estimates the probability distribution of root reinforcement over a forested stand as function of its tree species identity, tree density and average DBH.
 For more details, please see the scientific references.
  
